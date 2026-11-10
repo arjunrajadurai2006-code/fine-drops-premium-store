@@ -1,0 +1,8 @@
+{
+  "routes": [
+    { "path": "/", "title": "Fine Drops — Perfumes & Attars" },
+    { "path": "/product/:id", "title": "Product detail — Fine Drops" },
+    { "path": "/admin", "title": "Fine Drops Admin Studio" },
+    { "path": "/admin/login", "title": "Fine Drops Admin Studio Login" }
+  ]
+}
